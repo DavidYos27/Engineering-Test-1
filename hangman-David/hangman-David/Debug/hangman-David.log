@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\s46c\desktop\roket\hangman-david\hangman-david\main.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\s46c\desktop\roket\hangman-david\hangman-david\main.cpp(107): warning C4018: '<': signed/unsigned mismatch
+  hangman-David.vcxproj -> C:\Users\S46C\Desktop\Roket\hangman-David\Debug\hangman-David.exe
